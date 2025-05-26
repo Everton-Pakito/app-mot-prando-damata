@@ -1,6 +1,6 @@
 {
-  "name": "Dashboard DAMATA",
-  "short_name": "DAMATA",
+  "name": "App Mot Prando DAMATA",
+  "short_name": "Mot DAMATA",
   "start_url": ".",
   "display": "standalone",
   "background_color": "#f5f6fa",
